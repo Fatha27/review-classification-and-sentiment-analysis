@@ -72,7 +72,7 @@ A variety of machine learning models were tested to classify the reviews, with L
 
 ![image](https://github.com/user-attachments/assets/47068f4a-dccb-4318-b48b-44ab16ef1ab8)
 
-## 7. Web app screesnshots ##
+## 7. Web app screenshots ##
 ## Negative review ##
 
 ![image](https://github.com/user-attachments/assets/6e48e830-7c08-4a2e-a12d-6db83b34fba5)
