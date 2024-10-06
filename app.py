@@ -9,7 +9,7 @@ import re
 
 
 # Load the trained dt model and other necessary components
-with open('models/lr', 'rb') as model_file:
+with open('models/dt', 'rb') as model_file:
     decision_tree_model = pickle.load(model_file)
 #stopwords list
 with open('models/fin_stop', 'rb') as f:
