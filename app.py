@@ -8,8 +8,8 @@ from nltk.corpus import stopwords
 import re
 
 
-# Load the trained scm model and other necessary components
-with open('models/svm', 'rb') as model_file:
+# Load the trained dt model and other necessary components
+with open('models/lr', 'rb') as model_file:
     decision_tree_model = pickle.load(model_file)
 #stopwords list
 with open('models/fin_stop', 'rb') as f:
